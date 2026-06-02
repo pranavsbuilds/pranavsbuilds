@@ -84,13 +84,6 @@ A comprehensive attendance and record management system designed for educators. 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavsupugade1489-stack&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavsupugade1489-stack&layout=compact&theme=tokyonight)
-
----
 
 ## 🤝 Let's Connect
 
